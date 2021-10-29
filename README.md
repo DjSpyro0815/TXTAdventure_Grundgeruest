@@ -1,2 +1,2 @@
-# TXTAdventure_Grundgre-st
+# TXTAdventure_Grundgerüst
 TextAdventure Grundgerüst
